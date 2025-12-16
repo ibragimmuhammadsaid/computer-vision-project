@@ -1,0 +1,24 @@
+# IDE
+.idea/
+.vscode/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual env
+venv/
+.env/
+
+# Big folders (не загружать вообще)
+cache/
+data/
+models/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
